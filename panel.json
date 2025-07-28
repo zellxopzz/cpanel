@@ -1,0 +1,12 @@
+{
+  "server1": {
+    "domain": "wanzganteng.panelwebsite.biz.id",
+    "ptla": "ptla_v2NDq6ObmvsO61AHfDSiOynHx0tLcjHfrAPu9TQmVD1",
+    "ptlc": "ptlc_eenYqYRBkpXLxT7jwLJIhGivDMa4gcH0D0tMa0EstPO"
+  },
+  "server2": {
+    "domain": "",
+    "ptla": "",
+    "ptlc": ""
+  }
+}
